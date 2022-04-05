@@ -7,4 +7,4 @@
 <img width="" height="" src="./PIC/3st_(call)_PNG.png"></img>
 
 ## 4st(2022-03-29)
-<img width="" height="" src="./PIC/4st_(message)_PNG.png"></img>
+<img width="" height="" src="./PIC/4st_(message_name)_PNG.png"></img>
