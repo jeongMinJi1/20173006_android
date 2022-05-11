@@ -12,3 +12,7 @@
 ## 5st(2022-04-05)
 <img width="" height="" src="./PIC/5st_(mainactivity)_PNG.png"></img>
 <img width="" height="" src="./PIC/5st_(activity_main)_PNG.png"></img>
+
+## 10st(2022-05-10)
+<img width="" height="" src="./PIC/10st_(MainActivity.java)_PNG.png"></img>
+<img width="" height="" src="./PIC/10st_(MenuActivity.java)_PNG.png"></img>
